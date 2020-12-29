@@ -18,7 +18,6 @@ from collections import OrderedDict
 
 # This was written with a different configuration than I typically use.
 # And I have no qualms about disabling no-member
-# change it at this point.
 # pylint: disable=bad-indentation, no-member
 
 # Three cases: no replacement, naive replacement, and smart replacement.
