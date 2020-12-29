@@ -32,6 +32,7 @@ The weights for DaSiamRPN are available [here](https://drive.google.com/open?id=
 	
 	    cd data && sh get_otb_data.sh && cd ..
 2.  Generate the various scores (this takes a while, it has to process all the videos three times):
+
 `python generate_scored_mturk_tsv.py --out_dir output --guess_iou_weights [path to guess weights] --mturk_tsv ../mturk_tools/mturk_output.tsv --description_tsv ../mturk_tools/bbox-seed-descriptions.tsv`
 3. Find out which annotators you have to filter:
 
