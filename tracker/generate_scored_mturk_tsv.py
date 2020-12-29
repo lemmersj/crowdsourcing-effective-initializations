@@ -28,7 +28,7 @@ import csv
 from IPython import embed
 import random
 
-parser = argparse.ArgumentParser(description='PyTorch SiamRPN OTB Test')
+parser = argparse.ArgumentParser(description='Generate scoring tsv.')
 parser.add_argument('--out_dir', type=str)
 parser.add_argument('--guess_iou_weights', type=str)
 parser.add_argument('--mturk_tsv', type=str)
