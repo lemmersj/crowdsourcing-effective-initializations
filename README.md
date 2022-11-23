@@ -1,6 +1,6 @@
 
 # Crowdsourcing More Effective Initializations for Single-Target Trackers through Automatic Re-querying
-This repository contains the code used for the paper "Crowdsourcing More Effective Initializations for Single-target Trackers through Automatic Re-querying," to be published at the 2021 Conference on Human Factors in Computing Systems (CHI). If you find this work helpful, please cite:
+This repository contains the code and [data](https://github.com/lemmersj/crowdsourcing-effective-initializations/blob/main/mturk_tools/mturk_output.tsv) used for the paper "[Crowdsourcing More Effective Initializations for Single-target Trackers through Automatic Re-querying](https://dl.acm.org/doi/pdf/10.1145/3411764.3445181)," published at the 2021 Conference on Human Factors in Computing Systems (CHI). If you find this work helpful, please cite:
 
     @inproceedings{lemmer_crowdsourcing_2021,
 	address = {Virtual (Originally Yokohama, Japan)},
